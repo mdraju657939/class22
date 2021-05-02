@@ -1,0 +1,74 @@
+.header{
+    background: #f5f5f5;
+}
+.header-logo a{
+    text-decoration: none;
+    font-size: 30px;
+}
+.header .container{
+    padding: 0;
+}
+.header-menu ul{
+    margin-bottom: 13px;
+
+}
+.header-menu ul li{
+    display: inline-block;
+}
+.header-menu ul li a{
+    display: block;
+    font-size: 16px;
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    margin-left: -5px;
+    transition: .5s;
+    margin-bottom: -20px;
+}
+.header-menu ul li a:hover{
+    background: rgba(0, 0, 0, 0.508);
+    color: rgb(150, 196, 226);
+}
+
+.banner{
+    background-image: url(https://www.brunocarlo.com/assets/img/img-slider/collez_man1.jpg);
+    padding: 200px 0;
+    background-size: cover;
+}
+.banner-text{
+    color: #fff;
+    font-size: 30px;
+}
+/* ========== contain-section ============ */
+.contain-section{
+    background: #f5f5f5;
+}
+img{
+    max-width: 100%;
+}
+.container{
+    padding: 30px 0;
+}
+.container ul{
+    list-style: none;
+}
+.container ul li{
+    color: #8b8c8d;
+}
+.contain-text{
+    color: #5c5e5f ;
+}
+.contain-tex-right{
+    color: #464748;
+}
+.contain-tex-right b{
+    font-size: #333333 ;
+}
+.contact-section{
+    background: #f5f5f5;
+}
+
+.footer-section{
+    background: #0062d3;
+    color:#ddd;
+}
